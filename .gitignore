@@ -1,0 +1,5 @@
+node_modules/
+.env
+playwright-repot/
+test-results/
+.DS_Store
